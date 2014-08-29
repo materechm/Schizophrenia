@@ -22,4 +22,5 @@ Next I used UChicago's eQTL Browser to find eQTLs on or near the genes on my 2 l
 
 ##Paper summaries (ongoing) 
 Observation and comment: https://docs.google.com/spreadsheet/ccc?key=0AjbyO_yr7YwbdFR6NzRVLWlfSWh6cnYxVlBYRm85Rmc&usp=sharing
+
 Figures: https://docs.google.com/document/d/1Qnm8EGrcJKBx34LjZtFVc6zKHWAonIAU-rsRBjUKD6M/edit?usp=sharing
